@@ -1,1 +1,9 @@
-/* Android specific custom CSS styles for the application */
+/* Force hide the lovable branding */
+div[class*="lovable"], 
+a[href*="lovable"], 
+.lovable-badge {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+}/* Android specific custom CSS styles for the application */
