@@ -1,4 +1,4 @@
-# Chaos Hub 🌀
+# Chaos Hub 🌀 -made by Elijas/Jumpsipidy
 
 Welcome to **Chaos Hub**! This is an Android application built to provide a seamless mobile experience, featuring integrated web capabilities and custom native transitions.
 
